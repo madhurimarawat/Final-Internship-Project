@@ -2,5 +2,4 @@ python
 pandas
 seaborn
 matplotlib
-sklearn
-tabulate
+scikit-learn
