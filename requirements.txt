@@ -1,5 +1,6 @@
-python
+scikit-learn
+numpy
 pandas
+tabulate
 seaborn
 matplotlib
-scikit-learn
