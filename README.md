@@ -1,8 +1,8 @@
 # Final-Internship-Project
 This repository contains my internship project that I made using Streamlit and Python programming language.
 
-<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/madhurimarawat/Final-Internship-Project/assets/105432776/d8e75379-9583-4bf8-a9ac-515e8b7eb2c6"></a> <br><br>
-<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/madhurimarawat/Final-Internship-Project/assets/105432776/f83d32b3-a4e8-43a0-802a-e00003325089"></a>
+<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/ec393f3f-a0e7-4666-bc68-79c674dd90b7"></a> <br><br>
+<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/2dcb4ee9-0b4c-4c93-92f2-2b5edec4da0f"></a>
 
 ---
 # Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40">
