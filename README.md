@@ -1,7 +1,7 @@
 # Final-Internship-Project
 This repository contains my internship project that I made using Streamlit and Python programming language.
 
-<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/ec393f3f-a0e7-4666-bc68-79c674dd90b7"></a> <br><br>
+<a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/66edbad0-20df-436c-a596-1a614fec6818"></a> <br><br>
 <a href = "https://final-internship-project-nvdx7l2pqe42g2p9ambd8s.streamlit.app/"><img width="960" title = "Website Image" alt="Website Image" src="https://github.com/user-attachments/assets/2dcb4ee9-0b4c-4c93-92f2-2b5edec4da0f"></a>
 
 ---
